@@ -1,0 +1,12 @@
+#header {
+    display: flex;
+    justify-content: space-between;
+}
+#start-screen {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.hide{
+    display: none;
+}
