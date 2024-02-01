@@ -36,6 +36,7 @@ function countdown() {
         // Use `clearInterval()` to stop the timer
         clearInterval(timeInterval);
         //call end game function
+        endgame()
       }
     }, 1000);
   }
